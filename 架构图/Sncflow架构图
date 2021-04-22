@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-04-22T06:26:07.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Edg/89.0.774.77" etag="l9zhitJNLQzLI6YxspED" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-22T06:31:41.114Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 Edg/89.0.774.77" etag="93rHsGVlZv0UznFot2-2" version="13.7.3" type="github">
   <diagram id="aGRgvNaooTlc6GIK4WMD" name="Page-1">
-    <mxGraphModel dx="782" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1303" dy="932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UV_IEejVYd53v6M2eyYm-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;Zookeeper&lt;/b&gt;&lt;/font&gt;" style="rounded=0;strokeWidth=2;perimeterSpacing=0;glass=0;sketch=0;shadow=0;fillColor=#c4d6a0;labelBorderColor=none;labelBackgroundColor=none;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;spacingLeft=0;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;align=center;horizontal=0;" parent="1" vertex="1">
-          <mxGeometry x="60" y="70" width="70" height="310" as="geometry" />
+          <mxGeometry x="30" y="70" width="70" height="310" as="geometry" />
         </mxCell>
         <mxCell id="UV_IEejVYd53v6M2eyYm-4" value="" style="group;fontFamily=Comic Sans MS;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="180" y="70" width="240" height="60" as="geometry" />
@@ -207,6 +207,21 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="580" as="sourcePoint" />
             <mxPoint x="260" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vaZcWysDNRSXRwH_SW4k-35" value="Redis&lt;br&gt;MySql&lt;br&gt;ElasticSearch" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;labelBackgroundColor=none;strokeWidth=2;fillColor=#e1d5e7;fontStyle=1;fontFamily=Comic Sans MS;fontSize=16;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="827" y="140" width="110" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="vaZcWysDNRSXRwH_SW4k-38" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=Helvetica;strokeWidth=2;width=40;endSize=10.35;sketch=0;endWidth=75;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="270" as="sourcePoint" />
+            <mxPoint x="820" y="270.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vaZcWysDNRSXRwH_SW4k-39" value="" style="shape=flexArrow;endArrow=classic;html=1;fontFamily=Helvetica;strokeWidth=2;width=40;endSize=10.35;sketch=0;endWidth=75;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="270.5" as="sourcePoint" />
+            <mxPoint x="120" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
